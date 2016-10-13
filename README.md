@@ -10,6 +10,16 @@ Some scripts for work automation.
 ## Repository structure
 
 ```bash
-├── README.md    // Introduction 
+
+├── golang
+│   ├── build
+│   │   └── build.sh
+│   └── go-vim
+│       ├── README.md
+│       ├── vim
+│       └── vimrc
+├── README.md
 └── remote
-    └── ssh.sh   // A ssh script for auto login to remote host.
+    └── ssh.sh
+
+```
